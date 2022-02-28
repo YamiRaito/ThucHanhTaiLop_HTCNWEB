@@ -1,0 +1,59 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+.content
+{
+    height: 900px;
+    width: 1089px;
+    background-color:rgb(17, 230, 166);
+
+}
+.header
+{
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+    padding-top: 1px;
+}
+.menu
+{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+}
+.menu1 li{
+    width: 200px;
+    height: 100px;
+    float: left;
+    line-height: 150px;
+    list-style: none;
+    text-indent: 25px;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+.wapp
+{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(184, 230, 19);
+}
+.t
+{
+    width: 40%;
+    height: 450px;
+    background-color: red;
+    float: left;
+}
+.r
+{
+    width: 60%;
+    height: 450px;
+}
+.footer
+{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(12, 43, 68);
+}
